@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:gravity="center" android:background="@color/darkerblue">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@mipmap/img_login" />
+    <EditText
+        android:id="@+id/txtKorisnickoIme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/korisnickoIme"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray_hint"
+        android:textSize="16dp"
+        android:background="@drawable/txt_shapes"
+        android:padding="12dp"
+        android:layout_margin="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        />
+    <EditText
+        android:id="@+id/txtLozinka"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/lozinka"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray_hint"
+        android:inputType="textPassword"
+        android:textSize="16dp"
+        android:background="@drawable/txt_shapes"
+        android:padding="12dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:id="@+id/btnPrijava"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/prijava"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textSize="16dp"
+        android:background="@drawable/btn_shape_selector"
+        android:layout_marginBottom="5dp"
+        android:textColorHint="@color/colorAccent"
+        />
+    <Button
+        android:id="@+id/btnRegistracija"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/registracija"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textSize="16dp"
+        android:visibility="gone"
+        android:background="@drawable/btn_shape_selector"
+        android:textColorHint="@color/gray_white"
+        />
+</LinearLayout>
+

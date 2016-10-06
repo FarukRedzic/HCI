@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6e5d2f88c24805008f4007f7c52b20548829671f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7b106b8a4f63bdf5105b5df195f749945ee9e2b7">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b68381d21d7d0bd6de4a3d576dc25605b429910a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_235bfbf79707eb55d994ca5e1f8a9055c2038e14\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_2007d27eca5185466b4b0d5d888f44e3a3caf34f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_f332ff39817413239dd479ae2b6261d59f74bf0f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_955ab634e2e3435d4e75dd5e1b6e71c328f4b6b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_ccfc15c16cadf834fc758b76736d792258f065e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_68a523b64e86dbf4e58e83a22422dec006698d2b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_804f8807bdafd3c1cd1da6ff9595f1220e891a6c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_c609347083745b5f5286167fa8a5ab7f34cc7752\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_8ce025636678497a8bb0525fdcd96ac2f941aa26\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_3b5a7562df5dbc9aaabebfbcd6c2007e45e7c341\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_ae1e2c6e86f4e7982f0cb51a7e9b3e863bd2deaf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_2f90d360e374f14c868ffe168949ff357b7ec2ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.0\ba14d8b7789efde5ee150eacb297b7237abca39\logging-interceptor-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ba14d8b7789efde5ee150eacb297b7237abca39">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.0_0584f7bb6444b4d6ea1787a0328ebb6a95f57a58\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_c2abd9a66b259ff45a390b7ac841a63e28da06a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1aa4af9ef63a923ada4b767dcf6e997b2079826f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="63612e8011d094ec246e394d92ed82f55718826e">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ee30002324acfc7e3fc9ebda670e46db32df328c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.8_51ca100a0624c02a2cbd16b6707803cc9add7c4a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_74d079b8d6a62a8e6a45cfab364c83f376721614\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5d07c96b090d7f33ea7ac1dc9ad1885636585a01\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_9b3084b836ff586fe2f23ee70a1372741de89a26\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_086e2a89c3fddbe6bf9e9d7ad68de9d4b1897f08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_f4d4a311c6dc8f9cd31cf4a6c65f3e5207b83ea9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_543a85f29b025ec8304bf0c3f107d124efd50a47\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_1d9f6273e8ff172694cb643fbd33807d115876cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_858ff830deb4256c19d1077ad89d1dc7431c8273\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_63b510cefd07145814240e07801c9a3634009231\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Faruk\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Faruk\Desktop\HCI_IB130051_FarukRedzic\HCI_IB130051\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_ff273f8aebf7eaae87cb124f358041cec0ee8920\classes.dex" />
+    </item>
+
+</items>

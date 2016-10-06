@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    >
+
+    <ImageView
+        android:id="@+id/ivSlika"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        />
+
+    <TextView
+        android:id="@+id/tvIme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Ime: Faruk"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/tvPrezime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Prezime: Faruk"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Email: Faruk"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/tvOpcina"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Opcina: Faruk"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/tvAdresa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Adresa: Faruk"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:id="@+id/tvTrgovina"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Trgovina: Faruk"
+        android:textSize="16sp"
+        />
+
+</LinearLayout>

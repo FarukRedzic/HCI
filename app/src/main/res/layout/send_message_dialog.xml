@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="30dp"
+        android:paddingBottom="30dp"
+        android:textSize="18sp"
+        android:text="Pošaljite upit o proizvodu!"
+        />
+
+    <EditText
+        android:id="@+id/etMessageText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        />
+
+    <Button
+        android:id="@+id/btnPosalji"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/posalji_poruku"
+        />
+
+</LinearLayout>

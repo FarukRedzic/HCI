@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HCI-Prodaja</string>
+    <string name="prijava">Prijava</string>
+    <string name="registracija">Registracija</string>
+    <string name="korisnickoIme">korisničko ime</string>
+    <string name="ime">ime</string>
+    <string name="telefon">telefon</string>
+    <string name="prezime">prezime</string>
+    <string name="adresa">adresa</string>
+    <string name="email">email</string>
+    <string name="lozinka">lozinka</string>
+    <color name="darkblue">#254d74</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="darkerblue">#00334d</color>#8c8c8c
+    <color name="gray">#999999</color>
+    <color name="gray_white">#d9d9d9</color>#bfbfbf
+    <color name="gray_hint">#8c8c8c</color>
+    <color name="bluePressed">#4d94ff</color>
+
+    <string name="pregled_proizvoda_pretraga">Pregled svih proizvoda</string>
+    <string name="pregled_korisnika_pretraga">Pregled korisnika</string>
+    <string name="dolazne_poruke">Dolazne poruke</string>
+    <string name="moj_profil">Moj profil</string>
+    <string name="odjava">Odjava</string>
+    <string name="trazi">Trazi</string>
+    <string name="posalji_poruku">Pošalji poruku</string>
+</resources>
