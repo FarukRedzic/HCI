@@ -24,39 +24,39 @@ import retrofit2.http.Path;
 
 public interface FApiService {
 
-    @GET("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Korisnik")
+    @GET("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Korisnik")
     Call<List<Korisnik>> getKorisnici();
 
-    @GET("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Korisnik/GetKorisnik/{username}")
+    @GET("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Korisnik/GetKorisnik/{username}")
     Call<KorisnikLogin> getKorisnik(@Path("username") String username);
 
-    @GET("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Korisnik/GetKorisniciByParams/{Naziv}/{IsTrgovina}/{LogiraniId}")
+    @GET("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Korisnik/GetKorisniciByParams/{Naziv}/{IsTrgovina}/{LogiraniId}")
     Call<List<Korisnik>> getKorisnici(@Path("Naziv") String naziv, @Path("IsTrgovina") Boolean isTrgovina, @Path("LogiraniId") int logiraniId);
 
     @POST("Korisnik/NoviKorisnik")
     Call<Korisnik> postKorisnik(@Body String model);
 
-    @GET("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Proizvod/GetProizvodiByParams/{Naziv}/{KategorijaId}/{LogiraniId}")
+    @GET("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Proizvod/GetProizvodiByParams/{Naziv}/{KategorijaId}/{LogiraniId}")
     Call<List<Proizvod>> getProizvodi(@Path("Naziv") String naziv, @Path("KategorijaId") int kategorijaId, @Path("LogiraniId") int logiraniId);
 
-    @GET("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Proizvod/GetAktivneByParams/{KorisnikId}/{KategorijaId}")
+    @GET("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Proizvod/GetAktivneByParams/{KorisnikId}/{KategorijaId}")
     Call<List<Proizvod>> getAktivniProizvodi(@Path("KategorijaId") int kategorijaId, @Path("KorisnikId") int logiraniId);
 
-    @GET("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Proizvod/GetNeaktivneByParamsTrgovina/{KorisnikId}/{KategorijaId}")
+    @GET("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Proizvod/GetNeaktivneByParamsTrgovina/{KorisnikId}/{KategorijaId}")
     Call<List<Proizvod>> getNeAktivniProizvodi(@Path("KategorijaId") int kategorijaId, @Path("KorisnikId") int logiraniId);
 
-    @POST("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Proizvod/ProizvodAktivnost/{Id}/{IsAktivan}")
+    @POST("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Proizvod/ProizvodAktivnost/{Id}/{IsAktivan}")
     Call<ProizvodResponse> updateProizvod(@Path("Id") int proizvodId, @Path("IsAktivan") boolean isAktivan);
 
 
-    @GET("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Korisnik/GetOpstine")
+    @GET("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Korisnik/GetOpstine")
     Call<List<Opstina>> getOpstina();
 
 
-    @POST("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Poruka")
+    @POST("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Poruka")
     Call<Poruka> sendMessage(@Body SendMessageReq poruka);
 
-    @GET("/plesk-site-preview/hci.si102.app.fit.ba/5.189.152.86/api/Poruka/GetDolazne/{KorisnikId}")
+    @GET("/plesk-site-preview/hci211.app.fit.ba/5.189.152.86/api/Poruka/GetDolazne/{KorisnikId}")
     Call<List<Poruka>> getDolaznePoruke(@Path("KorisnikId") int korisnikId);
 
 }
